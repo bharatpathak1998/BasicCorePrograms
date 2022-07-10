@@ -21,7 +21,7 @@ public class HarmonicNumber {
 
         System.out.println();
         System.out.println(harmonicSum);
-     }
+    }
 }
 
 
